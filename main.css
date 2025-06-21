@@ -1,0 +1,78 @@
+h1{
+background-color: aquamarine;
+text-align: center;
+color: blue;
+border-radius: 30px;
+border: 2px solid red;
+}
+
+span{
+    background-color: yellow;
+    color: green;
+}
+
+i{
+    color: red;
+}
+
+h2{
+color: green;
+background-color: yellow;
+text-align: center;
+}
+
+h4{
+    color: green;
+    font-size: 25px;
+}
+
+h3{
+color: green;
+background-color: yellow;
+text-align: center;
+}
+
+
+table{
+    border-collapse: collapse;
+    border: 1px solid white;
+    width: 75%;
+    text-align: center;
+}
+
+.th1{
+    background-color:green ;
+}
+
+.th2{
+    background-color: blue;
+}
+
+.td1{
+    background-color: red;
+}
+
+.td4{
+    background-color: black;
+    color: white;
+}
+
+iframe{
+width: 100%;
+}
+
+button{
+background-color: aquamarine;
+font-size: 35px;
+border: 2px solid aquamarine;
+
+}
+
+.span1{
+width: 30px;
+height: 30px;
+}
+.input{
+    width: 75%;
+    height: 30px;
+}
